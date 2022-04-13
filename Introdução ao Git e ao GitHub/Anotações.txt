@@ -1,0 +1,9 @@
+Link para download do Git: https://git-scm.com/downloads
+O git Bash é um terminal extendido para otimizar o uso do Git.
+
+Alguns dos comandos do Git Bash
+
+git status // para ver como esta os untracked files
+git add . ou * // para adicionar os untracked files
+git commit -m "comentar commit"
+git push origin main // para mandar ao GitHub
